@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "commands_1": "node app.js input/comamnds_1.txt",
-    "commands_2": "node app.js input/comamnds_2.txt",
-    "commands_3": "node app.js input/comamnds_3.txt"
+    "commands_1": "node app.js input/commands_1.txt",
+    "commands_2": "node app.js input/commands_2.txt",
+    "commands_3": "node app.js input/commands_3.txt"
   },
   "author": "",
   "license": "ISC",
